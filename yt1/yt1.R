@@ -1,2 +1,3 @@
 x <- 1:20
-mean(x)
+# mean(x)
+var(x)
